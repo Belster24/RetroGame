@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Programming\cpp\Games\SimpleShooter\SimpleShuter\Source.cpp(20,11): warning C4305: inicializování: zkrácení z: double na: float
+D:\Programming\cpp\Games\SimpleShooter\SimpleShuter\Source.cpp(126,20): warning C4305: inicializování: zkrácení z: double na: float
+D:\Programming\cpp\Games\SimpleShooter\SimpleShuter\Source.cpp(136,17): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  SimpleShuter.vcxproj -> D:\Programming\cpp\Games\SimpleShooter\SimpleShuter\x64\Debug\SimpleShuter.exe
